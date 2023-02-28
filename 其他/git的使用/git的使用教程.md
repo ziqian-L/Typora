@@ -1,4 +1,4 @@
-[Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://www.liaoxuefeng.com/wiki/896043488029600)
+[Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://ww.liaoxuefeng.com/wiki/896043488029600)
 
 ### 设置用户名和邮箱
 
