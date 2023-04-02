@@ -155,6 +155,12 @@ cat id_rsa.puh
 
 将创建的SSH key添加到github/gitee中
 
+### 一台电脑管理多个秘钥
+
+[Git 最著名报错 “ERROR: Permission to XXX.git denied to user”终极解决方案 - 简书 (jianshu.com)](https://www.jianshu.com/p/12badb7e6c10)
+
+[Git之同一台电脑连接多个远程仓库 - zhengyan_web - 博客园 (cnblogs.com)](https://www.cnblogs.com/zhengyan/p/10728527.html)
+
 ### 添加远程库：先有本地库，后有远程库的时候，如何关联远程库
 
 在github/gitee中创建一个空仓库：learngit

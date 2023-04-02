@@ -1,3 +1,11 @@
+原版
+
+https://youtu.be/uNeVQ3auRZk
+
+搬运
+
+<iframe src="//player.bilibili.com/player.html?aid=684910953&bvid=BV1WU4y1R77P&cid=743181465&page=1" scrolling="no" border="0" frameborder="no" height="600" framespacing="0" allowfullscreen="true"> </iframe>
+
 # 为什么是Python?
 
 ## Python的特性
